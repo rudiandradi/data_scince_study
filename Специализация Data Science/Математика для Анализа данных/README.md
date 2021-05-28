@@ -1,2 +1,2 @@
-[Coursera WS3JPFWMTK3B.pdf](https://github.com/rudiandradi/Study-projects/files/6563725/Coursera.WS3JPFWMTK3B.pdf)
+![Coursera WS3JPFWMTK3B-1](https://user-images.githubusercontent.com/75040556/120051394-1e54d400-c029-11eb-9cc8-9f71e8ef3ed7.png)
 
