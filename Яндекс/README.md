@@ -28,6 +28,9 @@
      - Matplotlib 3.3.2
      - Seaborn 0.11.0
      - Plotly 4.14.3
+
+**Тетрадка второго проекта может отображаться некорректно на GitHub. Поэтому [здесь](https://drive.google.com/uc?export=download&id=14rwT_Tn1NENX7NW1Zzkw-owYFN3U0G7t) можно её скачать**
+
 ![image](https://user-images.githubusercontent.com/75040556/120046269-7b955900-c01a-11eb-99bd-134e1bd137e9.png)
 ![image](https://user-images.githubusercontent.com/75040556/120046328-95cf3700-c01a-11eb-8b72-0f9a863e8ef3.png)
 ![image](https://user-images.githubusercontent.com/75040556/120046350-a089cc00-c01a-11eb-86fc-1abc7dd21a39.png)
