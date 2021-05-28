@@ -1,2 +1,1 @@
-![Сертификат](https://coursera.org/share/ecfe5c89b9c4c310a3e03878ef8023d0)
-
+![image](https://user-images.githubusercontent.com/75040556/120051280-a9819a00-c028-11eb-979c-2dd4b7e1bf88.png)
