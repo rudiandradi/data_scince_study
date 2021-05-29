@@ -10,7 +10,7 @@
 
 Видео курса разработаны на Python 2. Задания и ноутбуки к ним адаптированы к Python 3.
 
-*Курс является первым модулем специализации [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis)*
+*Курс является вторым модулем специализации [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis)*
 
 ## Программа курса  
 ### НЕДЕЛЯ 1:  
